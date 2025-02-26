@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer living in Japan</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently in vocational school in Kanazawa, Ishikawa](IIP)<br><br>
+- 🔭 I’m currently in vocational school (Kanazawa, Ishikawa) for web programming<br><br>
 - 🌱 I’m currently learning/practicing **React, PHP, SQL, etc**<br><br>
 - 🤝 I’m always looking to improve **my coding skills**<br><br>
 - 👨‍💻 All of my projects are available at [https://brandoncodingman.github.io/portfolio-projects/portfoliojp/]<br><br>
