@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 Currently in vocational school in Kanazawa, Ishikawa]<br><br>
 - 👨‍👩‍👦 I am married with two kids and a pet rabbit <br><br>
-- 🧠 I have learned **JS, CSS, HTML, ETC** (see below)
+- 🧠 I have learned **JS, CSS, HTML, ETC** (see below)<br><br>
 - 🌱 Learning/practicing/improving **React, PHP, SQL, ETC**<br><br>
 - 🤝 I’m always looking to improve **my coding skills**<br><br>
 - 👨‍💻 My porfolio can be seen here: [https://brandoncodingman.github.io/portfolio-projects/portfoliojp/]<br><br>
