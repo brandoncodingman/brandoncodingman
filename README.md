@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🔭 Currently in vocational school in Kanazawa, Ishikawa]<br><br>
-- 👨‍👩‍👦 I am married with two kids and a pet rabbit <br><br>
+- 👨‍👩‍👦 I am married with two kids <br><br>
 - 🧠 I have learned **JS, CSS, HTML, PHP, mySQL ETC** (see below)<br><br>
 - 🌱 Learning/practicing/improving **React, C#, ETC**<br><br>
 - 🤝 I’m always looking to improve **my coding skills**<br><br>
