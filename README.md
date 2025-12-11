@@ -2,7 +2,7 @@
 <h3 align="center">A kind, hardworking frontend developer living in Japan</h3>
 
 # 💫 About Me:
-- 🔭 Currently in vocational school in Kanazawa, Ishikawa]<br><br>
+- 🔭 Working in Okayama prefecture as a programmer<br><br>
 - 👨‍👩‍👦 I am married with two kids <br><br>
 - 🧠 I have learned **JS, CSS, HTML, PHP, mySQL ETC** (see below)<br><br>
 - 🌱 Learning/practicing/improving **React, C#, ETC**<br><br>
