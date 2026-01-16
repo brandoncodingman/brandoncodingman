@@ -5,7 +5,7 @@
 - 🔭 Working in Okayama prefecture as a programmer<br><br>
 - 👨‍👩‍👦 I am married with two kids <br><br>
 - 🧠 I have learned **JS, CSS, HTML, PHP, mySQL ETC** (see below)<br><br>
-- 🌱 Learning/practicing/improving **React, C#, ETC**<br><br>
+- 🌱 Learning/practicing/improving **Python, VBA, React, C#, ETC**<br><br>
 - 🤝 I’m always looking to improve **my coding skills**<br><br>
 - 👨‍💻 My porfolio can be seen here: [https://brandoncodingman.github.io/portfolio-projects/portfoliojp/]<br><br>
 - 📫 How to reach me @ **brandoncodingman@gmail.com**<br><br>
