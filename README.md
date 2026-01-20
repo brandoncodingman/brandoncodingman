@@ -8,7 +8,7 @@
 - 🌱 Learning/practicing/improving **Python, VBA, React, C#, ETC**<br><br>
 - 🤝 I’m always looking to improve **my coding skills**<br><br>
 - 👨‍💻 My porfolio can be seen here: [https://brandoncodingman.github.io/portfolio-projects/portfoliojp/]<br><br>
-- 📫 How to reach me @ **brandoncodingman@gmail.com**<br><br>
+- 📫 How to reach me @ ****<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/brandonshapiro16/]<br><br>
 - ⚡ Hobbies include; watching MMA, tennis, astronomy, anime, and playing with my kids
 
