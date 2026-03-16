@@ -6,7 +6,7 @@
 - 👨‍👩‍👦 I am married with two kids <br><br>
 - 🧠 I have learned **JS, CSS, HTML, PHP, mySQL ETC** (see below)<br><br>
 - 🌱 Learning/practicing/improving **Python, VBA, React, C#, ETC**<br><br>
-- 🤝 I’m always looking to improve **my coding skills**<br><br>
+- 🤝 I’m always looking to improve **my coding skills** and **myself**<br><br>
 - 👨‍💻 My porfolio can be seen here: [https://brandoncodingman.github.io/portfolio-projects/portfoliojp/]<br><br>
 - 📫 How to reach me @ ****<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/brandonshapiro16/]<br><br>
